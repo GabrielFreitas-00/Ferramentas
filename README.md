@@ -1,3 +1,5 @@
+https://img.shields.io/github/size/adrianoleitedasilva/Ferramentas.svg
+
 # Ferramentas
 Todos os links para ferramentas e serviços web.
 
